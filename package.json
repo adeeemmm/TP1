@@ -1,0 +1,14 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "projet",
+  "main": "index.js",
+  "scripts": {
+    "test": "node seveur.js"
+  },
+  "author": "adem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
